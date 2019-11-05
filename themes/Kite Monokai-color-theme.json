@@ -21,7 +21,7 @@
 		"debugExceptionWidget.border": "#26292c",
 		"debugToolBar.background": "#36383b",
 		"descriptionForeground": "#8b888f",
-		"diffEditor.insertedTextBackground": "#7bd88f19",
+		"diffEditor.insertedTextBackground": "#a6e22e19",
 		"diffEditor.insertedTextBorder": "#00000000",
 		"diffEditor.removedTextBackground": "#fc618d19",
 		"diffEditor.removedTextBorder": "#00000000",
@@ -64,7 +64,7 @@
 		"editorGroupHeader.noTabsBackground": "#26292c",
 		"editorGroupHeader.tabsBackground": "#26292c",
 		"editorGroupHeader.tabsBorder": "#26292c",
-		"editorGutter.addedBackground": "#7bd88f",
+		"editorGutter.addedBackground": "#a6e22e",
 		"editorGutter.background": "#26292c",
 		"editorGutter.deletedBackground": "#fc618d",
 		"editorGutter.modifiedBackground": "#fd9353",
@@ -82,7 +82,7 @@
 		"editorMarkerNavigationError.background": "#fc618d",
 		"editorMarkerNavigationInfo.background": "#5ad4e6",
 		"editorMarkerNavigationWarning.background": "#fd9353",
-		"editorOverviewRuler.addedForeground": "#7bd88f",
+		"editorOverviewRuler.addedForeground": "#a6e22e",
 		"editorOverviewRuler.border": "#26292c",
 		"editorOverviewRuler.currentContentForeground": "#36383b",
 		"editorOverviewRuler.deletedForeground": "#fc618d",
@@ -117,7 +117,7 @@
 		"gitDecoration.conflictingResourceForeground": "#fd9353",
 		"gitDecoration.deletedResourceForeground": "#fc618d",
 		"gitDecoration.ignoredResourceForeground": "#36383b",
-		"gitDecoration.modifiedResourceForeground": "#7bd88f",
+		"gitDecoration.modifiedResourceForeground": "#a6e22e",
 		"gitDecoration.untrackedResourceForeground": "#fd9353",
 		"input.background": "#36383b",
 		"input.border": "#36383b",
@@ -156,8 +156,8 @@
 		"merge.commonHeaderBackground": "#f7f1ff26",
 		"merge.currentContentBackground": "#fc618d19",
 		"merge.currentHeaderBackground": "#fc618d26",
-		"merge.incomingContentBackground": "#7bd88f19",
-		"merge.incomingHeaderBackground": "#7bd88f26",
+		"merge.incomingContentBackground": "#a6e22e19",
+		"merge.incomingHeaderBackground": "#a6e22e26",
 		"notificationCenter.border": "#36383b",
 		"notificationCenterHeader.background": "#36383b",
 		"notificationCenterHeader.foreground": "#8b888f",
@@ -250,13 +250,13 @@
 		"terminal.ansiBrightBlack": "#5c6166",
 		"terminal.ansiBrightBlue": "#fd9353",
 		"terminal.ansiBrightCyan": "#5ad4e6",
-		"terminal.ansiBrightGreen": "#7bd88f",
+		"terminal.ansiBrightGreen": "#a6e22e",
 		"terminal.ansiBrightMagenta": "#948ae3",
 		"terminal.ansiBrightRed": "#fc618d",
 		"terminal.ansiBrightWhite": "#f7f1ff",
 		"terminal.ansiBrightYellow": "#e6db74",
 		"terminal.ansiCyan": "#5ad4e6",
-		"terminal.ansiGreen": "#7bd88f",
+		"terminal.ansiGreen": "#a6e22e",
 		"terminal.ansiMagenta": "#948ae3",
 		"terminal.ansiRed": "#fc618d",
 		"terminal.ansiWhite": "#f7f1ff",
@@ -509,7 +509,7 @@
 			],
 			"settings": {
 				"name": "Functions",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -548,7 +548,7 @@
 			"scope": "entity.name",
 			"settings": {
 				"name": "Entity name",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -584,7 +584,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"name": "Function name",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -633,7 +633,7 @@
 			],
 			"settings": {
 				"name": "CSS class",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -662,7 +662,7 @@
 			],
 			"settings": {
 				"name": "Function names / calls",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -805,7 +805,7 @@
 			"scope": "markup.underline.link",
 			"settings": {
 				"name": "Link",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -815,7 +815,7 @@
 			],
 			"settings": {
 				"name": "Diff inserted",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -883,7 +883,7 @@
 			],
 			"settings": {
 				"name": "Function call",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"scope": "meta.instance.constructor",
 			"settings": {
 				"name": "Constructor (new MyClass())",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			],
 			"settings": {
 				"name": "Class string name (i.e. in html attributes)",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -1126,8 +1126,8 @@
 			"scope": "region.greenish",
 			"settings": {
 				"name": "region green color",
-				"foreground": "#7bd88f",
-				"background": "#7bd88f59"
+				"foreground": "#a6e22e",
+				"background": "#a6e22e59"
 			}
 		},
 		{
@@ -1355,7 +1355,7 @@
 			],
 			"settings": {
 				"name": "refs (Restructured text)",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"scope": "support.function",
 			"settings": {
 				"name": "Function name",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -1530,7 +1530,7 @@
 			"scope": "variable.function",
 			"settings": {
 				"name": "Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -1554,7 +1554,7 @@
 			"scope": "source.jinja2 variable.other.jinja2.block",
 			"settings": {
 				"name": "jinja2 variable block",
-				"foreground": "#7bd88f"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
