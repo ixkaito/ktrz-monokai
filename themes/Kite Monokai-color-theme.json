@@ -74,13 +74,13 @@
 		"editorHoverWidget.border": "#26292c",
 		"editorIndentGuide.background": "#36383b",
 		"editorInfo.border": "#26292c",
-		"editorInfo.foreground": "#5ad4e6",
+		"editorInfo.foreground": "#66d9ef",
 		"editorLineNumber.activeForeground": "#bab6c0",
 		"editorLineNumber.foreground": "#36383b",
-		"editorLink.activeForeground": "#5ad4e6",
+		"editorLink.activeForeground": "#66d9ef",
 		"editorMarkerNavigation.background": "#36383b",
 		"editorMarkerNavigationError.background": "#f92672",
-		"editorMarkerNavigationInfo.background": "#5ad4e6",
+		"editorMarkerNavigationInfo.background": "#66d9ef",
 		"editorMarkerNavigationWarning.background": "#fd9353",
 		"editorOverviewRuler.addedForeground": "#a6e22e",
 		"editorOverviewRuler.border": "#26292c",
@@ -89,7 +89,7 @@
 		"editorOverviewRuler.errorForeground": "#f92672",
 		"editorOverviewRuler.findMatchForeground": "#f7f1ff26",
 		"editorOverviewRuler.incomingContentForeground": "#36383b",
-		"editorOverviewRuler.infoForeground": "#5ad4e6",
+		"editorOverviewRuler.infoForeground": "#66d9ef",
 		"editorOverviewRuler.modifiedForeground": "#fd9353",
 		"editorOverviewRuler.rangeHighlightForeground": "#f7f1ff26",
 		"editorOverviewRuler.selectionHighlightForeground": "#f7f1ff26",
@@ -129,8 +129,8 @@
 		"inputValidation.errorBorder": "#f92672",
 		"inputValidation.errorForeground": "#f92672",
 		"inputValidation.infoBackground": "#36383b",
-		"inputValidation.infoBorder": "#5ad4e6",
-		"inputValidation.infoForeground": "#5ad4e6",
+		"inputValidation.infoBorder": "#66d9ef",
+		"inputValidation.infoForeground": "#66d9ef",
 		"inputValidation.warningBackground": "#36383b",
 		"inputValidation.warningBorder": "#fd9353",
 		"inputValidation.warningForeground": "#fd9353",
@@ -249,13 +249,13 @@
 		"terminal.ansiBlue": "#fd9353",
 		"terminal.ansiBrightBlack": "#5c6166",
 		"terminal.ansiBrightBlue": "#fd9353",
-		"terminal.ansiBrightCyan": "#5ad4e6",
+		"terminal.ansiBrightCyan": "#66d9ef",
 		"terminal.ansiBrightGreen": "#a6e22e",
 		"terminal.ansiBrightMagenta": "#948ae3",
 		"terminal.ansiBrightRed": "#f92672",
 		"terminal.ansiBrightWhite": "#f7f1ff",
 		"terminal.ansiBrightYellow": "#e6db74",
-		"terminal.ansiCyan": "#5ad4e6",
+		"terminal.ansiCyan": "#66d9ef",
 		"terminal.ansiGreen": "#a6e22e",
 		"terminal.ansiMagenta": "#948ae3",
 		"terminal.ansiRed": "#f92672",
@@ -387,7 +387,7 @@
 			"scope": "comment.git-status.header.local",
 			"settings": {
 				"name": "git status local",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			],
 			"settings": {
 				"name": "Class template",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -541,7 +541,7 @@
 			"scope": "entity.name.function.preprocessor",
 			"settings": {
 				"name": "Macros",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -555,7 +555,7 @@
 			"scope": "entity.name.class",
 			"settings": {
 				"name": "Class name",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"settings": {
 				"name": "Inherited class",
 				"fontStyle": "italic",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -613,7 +613,7 @@
 			],
 			"settings": {
 				"name": "Entity name type",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -621,7 +621,7 @@
 			"settings": {
 				"name": "Tag attribute",
 				"fontStyle": "italic",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -652,7 +652,7 @@
 			"settings": {
 				"name": "CSS pseudo class",
 				"fontStyle": "italic",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -1134,8 +1134,8 @@
 			"scope": "region.bluish",
 			"settings": {
 				"name": "region blue color",
-				"foreground": "#5ad4e6",
-				"background": "#5ad4e659"
+				"foreground": "#66d9ef",
+				"background": "#66d9ef59"
 			}
 		},
 		{
@@ -1256,7 +1256,7 @@
 			"settings": {
 				"name": "Types and definition/declaration keywords should use the following scope. Examples include int, bool, char, func, function, class and def. Depending on the language and semantics, const may be this or storage.modifier.",
 				"fontStyle": "italic",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -1335,7 +1335,7 @@
 			"scope": "string.other.link.description.title",
 			"settings": {
 				"name": "link description",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -1376,7 +1376,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"name": "Library constant",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -1408,14 +1408,14 @@
 			"settings": {
 				"name": "Library type",
 				"fontStyle": "italic",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
 			"scope": "support.variable",
 			"settings": {
 				"name": "Support variables",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -1430,7 +1430,7 @@
 			"scope": "support.class",
 			"settings": {
 				"name": "Library class",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -1491,7 +1491,7 @@
 			"scope": "variable.other.class",
 			"settings": {
 				"name": "Library function",
-				"foreground": "#5ad4e6"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
