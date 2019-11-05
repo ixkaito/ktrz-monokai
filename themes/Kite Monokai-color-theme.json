@@ -23,7 +23,7 @@
 		"descriptionForeground": "#8b888f",
 		"diffEditor.insertedTextBackground": "#a6e22e19",
 		"diffEditor.insertedTextBorder": "#00000000",
-		"diffEditor.removedTextBackground": "#fc618d19",
+		"diffEditor.removedTextBackground": "#f9267219",
 		"diffEditor.removedTextBorder": "#00000000",
 		"dropdown.background": "#26292c",
 		"dropdown.border": "#26292c",
@@ -56,7 +56,7 @@
 		"editorCursor.background": "#26292c",
 		"editorCursor.foreground": "#f7f1ff",
 		"editorError.border": "#00000000",
-		"editorError.foreground": "#fc618d",
+		"editorError.foreground": "#f92672",
 		"editorGroup.border": "#1f2124",
 		"editorGroup.dropBackground": "#1f2124bf",
 		"editorGroup.emptyBackground": "#181a1c",
@@ -66,7 +66,7 @@
 		"editorGroupHeader.tabsBorder": "#26292c",
 		"editorGutter.addedBackground": "#a6e22e",
 		"editorGutter.background": "#26292c",
-		"editorGutter.deletedBackground": "#fc618d",
+		"editorGutter.deletedBackground": "#f92672",
 		"editorGutter.modifiedBackground": "#fd9353",
 		"editorHint.border": "#26292c",
 		"editorHint.foreground": "#948ae3",
@@ -79,14 +79,14 @@
 		"editorLineNumber.foreground": "#36383b",
 		"editorLink.activeForeground": "#5ad4e6",
 		"editorMarkerNavigation.background": "#36383b",
-		"editorMarkerNavigationError.background": "#fc618d",
+		"editorMarkerNavigationError.background": "#f92672",
 		"editorMarkerNavigationInfo.background": "#5ad4e6",
 		"editorMarkerNavigationWarning.background": "#fd9353",
 		"editorOverviewRuler.addedForeground": "#a6e22e",
 		"editorOverviewRuler.border": "#26292c",
 		"editorOverviewRuler.currentContentForeground": "#36383b",
-		"editorOverviewRuler.deletedForeground": "#fc618d",
-		"editorOverviewRuler.errorForeground": "#fc618d",
+		"editorOverviewRuler.deletedForeground": "#f92672",
+		"editorOverviewRuler.errorForeground": "#f92672",
 		"editorOverviewRuler.findMatchForeground": "#f7f1ff26",
 		"editorOverviewRuler.incomingContentForeground": "#36383b",
 		"editorOverviewRuler.infoForeground": "#5ad4e6",
@@ -108,14 +108,14 @@
 		"editorWhitespace.foreground": "#36383b",
 		"editorWidget.background": "#36383b",
 		"editorWidget.border": "#36383b",
-		"errorForeground": "#fc618d",
+		"errorForeground": "#f92672",
 		"extensionButton.prominentBackground": "#36383b",
 		"extensionButton.prominentForeground": "#f7f1ff",
 		"extensionButton.prominentHoverBackground": "#36383b",
 		"focusBorder": "#5c6166",
 		"foreground": "#f7f1ff",
 		"gitDecoration.conflictingResourceForeground": "#fd9353",
-		"gitDecoration.deletedResourceForeground": "#fc618d",
+		"gitDecoration.deletedResourceForeground": "#f92672",
 		"gitDecoration.ignoredResourceForeground": "#36383b",
 		"gitDecoration.modifiedResourceForeground": "#a6e22e",
 		"gitDecoration.untrackedResourceForeground": "#fd9353",
@@ -126,8 +126,8 @@
 		"inputOption.activeBackground": "#36383b",
 		"inputOption.activeBorder": "#36383b",
 		"inputValidation.errorBackground": "#36383b",
-		"inputValidation.errorBorder": "#fc618d",
-		"inputValidation.errorForeground": "#fc618d",
+		"inputValidation.errorBorder": "#f92672",
+		"inputValidation.errorForeground": "#f92672",
 		"inputValidation.infoBackground": "#36383b",
 		"inputValidation.infoBorder": "#5ad4e6",
 		"inputValidation.infoForeground": "#5ad4e6",
@@ -137,7 +137,7 @@
 		"list.activeSelectionBackground": "#26292c",
 		"list.activeSelectionForeground": "#e6db74",
 		"list.dropBackground": "#1f2124bf",
-		"list.errorForeground": "#fc618d",
+		"list.errorForeground": "#f92672",
 		"list.focusBackground": "#26292c",
 		"list.focusForeground": "#f7f1ff",
 		"list.highlightForeground": "#f7f1ff",
@@ -146,16 +146,16 @@
 		"list.inactiveFocusBackground": "#26292c",
 		"list.inactiveSelectionBackground": "#26292c",
 		"list.inactiveSelectionForeground": "#e6db74",
-		"list.invalidItemForeground": "#fc618d",
+		"list.invalidItemForeground": "#f92672",
 		"list.warningForeground": "#fd9353",
 		"listFilterWidget.background": "#26292c",
-		"listFilterWidget.noMatchesOutline": "#fc618d",
+		"listFilterWidget.noMatchesOutline": "#f92672",
 		"listFilterWidget.outline": "#26292c",
 		"merge.border": "#26292c",
 		"merge.commonContentBackground": "#f7f1ff19",
 		"merge.commonHeaderBackground": "#f7f1ff26",
-		"merge.currentContentBackground": "#fc618d19",
-		"merge.currentHeaderBackground": "#fc618d26",
+		"merge.currentContentBackground": "#f9267219",
+		"merge.currentHeaderBackground": "#f9267226",
 		"merge.incomingContentBackground": "#a6e22e19",
 		"merge.incomingHeaderBackground": "#a6e22e26",
 		"notificationCenter.border": "#36383b",
@@ -252,13 +252,13 @@
 		"terminal.ansiBrightCyan": "#5ad4e6",
 		"terminal.ansiBrightGreen": "#a6e22e",
 		"terminal.ansiBrightMagenta": "#948ae3",
-		"terminal.ansiBrightRed": "#fc618d",
+		"terminal.ansiBrightRed": "#f92672",
 		"terminal.ansiBrightWhite": "#f7f1ff",
 		"terminal.ansiBrightYellow": "#e6db74",
 		"terminal.ansiCyan": "#5ad4e6",
 		"terminal.ansiGreen": "#a6e22e",
 		"terminal.ansiMagenta": "#948ae3",
-		"terminal.ansiRed": "#fc618d",
+		"terminal.ansiRed": "#f92672",
 		"terminal.ansiWhite": "#f7f1ff",
 		"terminal.ansiYellow": "#e6db74",
 		"terminal.background": "#36383b",
@@ -380,7 +380,7 @@
 			"scope": "comment.git-status.header.remote",
 			"settings": {
 				"name": "git status remote",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -595,14 +595,14 @@
 			],
 			"settings": {
 				"name": "Tag name",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
 			"scope": "entity.name.function.operator",
 			"settings": {
 				"name": "Operator",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -711,21 +711,21 @@
 			"scope": "keyword",
 			"settings": {
 				"name": "Keyword",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
 				"name": "Control keywords examples include if, try, end and while. Some syntaxes prefer to mark if and else with the conditional variant. The import variant is often used in appropriate situations.",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
 			"scope": "keyword.control.directive",
 			"settings": {
 				"name": "keyword control directive",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -736,7 +736,7 @@
 			],
 			"settings": {
 				"name": "Operator",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -753,7 +753,7 @@
 			],
 			"settings": {
 				"name": "Template literal begin / end",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -825,7 +825,7 @@
 			],
 			"settings": {
 				"name": "Diff deleted",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -1085,7 +1085,7 @@
 			],
 			"settings": {
 				"name": "Punctuation template string (`example`)",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -1102,8 +1102,8 @@
 			"scope": "region.redish",
 			"settings": {
 				"name": "region red color",
-				"foreground": "#fc618d",
-				"background": "#fc618d59"
+				"foreground": "#f92672",
+				"background": "#f9267259"
 			}
 		},
 		{
@@ -1150,8 +1150,8 @@
 			"scope": "region.pinkish",
 			"settings": {
 				"name": "region pink color",
-				"foreground": "#fc618d",
-				"background": "#fc618d59"
+				"foreground": "#f92672",
+				"background": "#f9267259"
 			}
 		},
 		{
@@ -1248,7 +1248,7 @@
 			"scope": "storage",
 			"settings": {
 				"name": "Storage",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -1264,7 +1264,7 @@
 			"settings": {
 				"name": "Extends",
 				"fontStyle": "normal",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -1272,7 +1272,7 @@
 			"settings": {
 				"name": "Fat arrow function",
 				"fontStyle": "normal",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -1283,7 +1283,7 @@
 			"settings": {
 				"name": "Keywords that affect the storage of a variable, function or data structure should use the following scope. Examples include static, inline, const, public and private.",
 				"fontStyle": "italic",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -1328,7 +1328,7 @@
 			],
 			"settings": {
 				"name": "link title",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -1345,7 +1345,7 @@
 			],
 			"settings": {
 				"name": "String regexp begin / end",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
@@ -1369,7 +1369,7 @@
 			"scope": "string.other.git-status.remote",
 			"settings": {
 				"name": "git status remote",
-				"foreground": "#fc618d"
+				"foreground": "#f92672"
 			}
 		},
 		{
