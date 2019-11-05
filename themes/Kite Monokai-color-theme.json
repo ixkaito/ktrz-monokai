@@ -69,7 +69,7 @@
 		"editorGutter.deletedBackground": "#f92672",
 		"editorGutter.modifiedBackground": "#fd9353",
 		"editorHint.border": "#26292c",
-		"editorHint.foreground": "#948ae3",
+		"editorHint.foreground": "#ae81ff",
 		"editorHoverWidget.background": "#36383b",
 		"editorHoverWidget.border": "#26292c",
 		"editorIndentGuide.background": "#36383b",
@@ -251,13 +251,13 @@
 		"terminal.ansiBrightBlue": "#fd9353",
 		"terminal.ansiBrightCyan": "#66d9ef",
 		"terminal.ansiBrightGreen": "#a6e22e",
-		"terminal.ansiBrightMagenta": "#948ae3",
+		"terminal.ansiBrightMagenta": "#ae81ff",
 		"terminal.ansiBrightRed": "#f92672",
 		"terminal.ansiBrightWhite": "#f7f1ff",
 		"terminal.ansiBrightYellow": "#e6db74",
 		"terminal.ansiCyan": "#66d9ef",
 		"terminal.ansiGreen": "#a6e22e",
-		"terminal.ansiMagenta": "#948ae3",
+		"terminal.ansiMagenta": "#ae81ff",
 		"terminal.ansiRed": "#f92672",
 		"terminal.ansiWhite": "#f7f1ff",
 		"terminal.ansiYellow": "#e6db74",
@@ -373,7 +373,7 @@
 			"scope": "comment keyword.codetag.notation",
 			"settings": {
 				"name": "Comment TODO / FIXME (at least in VSCode Python)",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -401,7 +401,7 @@
 			"scope": "constant",
 			"settings": {
 				"name": "Constant",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -415,42 +415,42 @@
 			"scope": "constant.other.php",
 			"settings": {
 				"name": "Constant",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
 			"scope": "constant.other.property",
 			"settings": {
 				"name": "Constant as property",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
 			"scope": "constant.other.citation.latex",
 			"settings": {
 				"name": "Constant in latex",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
 			"scope": "constant.other.color",
 			"settings": {
 				"name": "Constant as color (in css / sass)",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
 			"scope": "constant.other.character-class.escape",
 			"settings": {
 				"name": "Constant as character class escape (e.g. in regex)",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
 			"scope": "constant.other.key",
 			"settings": {
 				"name": "Constant as key (e.g. in puppet manifests)",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -464,21 +464,21 @@
 			"scope": "constant.numeric",
 			"settings": {
 				"name": "Number",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
 			"scope": "constant.language",
 			"settings": {
 				"name": "Constant",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
 			"scope": "constant.character.escape",
 			"settings": {
 				"name": "Character escape",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -534,7 +534,7 @@
 			"scope": "entity.name.label",
 			"settings": {
 				"name": "label",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -562,7 +562,7 @@
 			"scope": "entity.name.constant",
 			"settings": {
 				"name": "Constant name",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -669,7 +669,7 @@
 			"scope": "entity.other.git-status.hex",
 			"settings": {
 				"name": "git status commit hex",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"scope": "entity.name.operator.custom-literal.number",
 			"settings": {
 				"name": "custom literal number",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -1005,7 +1005,7 @@
 			],
 			"settings": {
 				"name": "Preprocessor",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -1095,7 +1095,7 @@
 			],
 			"settings": {
 				"Name": "Punctuation hard line break in Markdown",
-				"background": "#948ae3"
+				"background": "#ae81ff"
 			}
 		},
 		{
@@ -1142,8 +1142,8 @@
 			"scope": "region.purplish",
 			"settings": {
 				"name": "region purple color",
-				"foreground": "#948ae3",
-				"background": "#948ae359"
+				"foreground": "#ae81ff",
+				"background": "#ae81ff59"
 			}
 		},
 		{
@@ -1201,7 +1201,7 @@
 			"scope": "source.git-show.commit.sha",
 			"settings": {
 				"name": "git",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -1224,7 +1224,7 @@
 			],
 			"settings": {
 				"name": "git diff header hash",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -1290,7 +1290,7 @@
 			"scope": "storage.class.restructuredtext.ref",
 			"settings": {
 				"name": "refs (Restructured text)",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -1484,7 +1484,7 @@
 			"scope": "variable.language.arguments",
 			"settings": {
 				"name": "Reserved variable names: 'arguments'",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -1498,7 +1498,7 @@
 			"scope": "variable.other.constant",
 			"settings": {
 				"name": "Immutable variables, often via a const modifier, should receive the following scope. Depending on the language and semantics, entity.name.constant may be a better choice.",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -1512,7 +1512,7 @@
 			"scope": "variable.other.enummember",
 			"settings": {
 				"name": "Enum member",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			],
 			"settings": {
 				"name": "Ruby instance variables",
-				"foreground": "#948ae3"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
