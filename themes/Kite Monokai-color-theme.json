@@ -51,8 +51,8 @@
 		"editor.wordHighlightStrongBackground": "#f7f1ff26",
 		"editor.wordHighlightStrongBorder": "#00000000",
 		"editorBracketMatch.background": "#26292c",
-		"editorBracketMatch.border": "#69676c",
-		"editorCodeLens.foreground": "#69676c",
+		"editorBracketMatch.border": "#5c6166",
+		"editorCodeLens.foreground": "#5c6166",
 		"editorCursor.background": "#26292c",
 		"editorCursor.foreground": "#f7f1ff",
 		"editorError.border": "#00000000",
@@ -102,7 +102,7 @@
 		"editorSuggestWidget.border": "#363537",
 		"editorSuggestWidget.foreground": "#bab6c0",
 		"editorSuggestWidget.highlightForeground": "#f7f1ff",
-		"editorSuggestWidget.selectedBackground": "#69676c",
+		"editorSuggestWidget.selectedBackground": "#5c6166",
 		"editorWarning.border": "#00000000",
 		"editorWarning.foreground": "#fd9353",
 		"editorWhitespace.foreground": "#525053",
@@ -112,7 +112,7 @@
 		"extensionButton.prominentBackground": "#363537",
 		"extensionButton.prominentForeground": "#f7f1ff",
 		"extensionButton.prominentHoverBackground": "#525053",
-		"focusBorder": "#69676c",
+		"focusBorder": "#5c6166",
 		"foreground": "#f7f1ff",
 		"gitDecoration.conflictingResourceForeground": "#fd9353",
 		"gitDecoration.deletedResourceForeground": "#fc618d",
@@ -122,7 +122,7 @@
 		"input.background": "#363537",
 		"input.border": "#363537",
 		"input.foreground": "#f7f1ff",
-		"input.placeholderForeground": "#69676c",
+		"input.placeholderForeground": "#5c6166",
 		"inputOption.activeBackground": "#525053",
 		"inputOption.activeBorder": "#525053",
 		"inputValidation.errorBackground": "#363537",
@@ -213,17 +213,17 @@
 		"sideBar.dropBackground": "#191919bf",
 		"sideBar.foreground": "#8b888f",
 		"sideBarSectionHeader.background": "#191919",
-		"sideBarSectionHeader.foreground": "#69676c",
+		"sideBarSectionHeader.foreground": "#5c6166",
 		"sideBarTitle.foreground": "#525053",
 		"statusBar.background": "#191919",
 		"statusBar.border": "#131313",
-		"statusBar.debuggingBackground": "#69676c",
+		"statusBar.debuggingBackground": "#5c6166",
 		"statusBar.debuggingBorder": "#191919",
 		"statusBar.debuggingForeground": "#f7f1ff",
-		"statusBar.foreground": "#69676c",
+		"statusBar.foreground": "#5c6166",
 		"statusBar.noFolderBackground": "#191919",
 		"statusBar.noFolderBorder": "#131313",
-		"statusBar.noFolderForeground": "#69676c",
+		"statusBar.noFolderForeground": "#5c6166",
 		"statusBarItem.activeBackground": "#26292c",
 		"statusBarItem.hoverBackground": "#26292c",
 		"statusBarItem.prominentBackground": "#363537",
@@ -247,7 +247,7 @@
 		"tab.unfocusedInactiveModifiedBorder": "#363537",
 		"terminal.ansiBlack": "#363537",
 		"terminal.ansiBlue": "#fd9353",
-		"terminal.ansiBrightBlack": "#69676c",
+		"terminal.ansiBrightBlack": "#5c6166",
 		"terminal.ansiBrightBlue": "#fd9353",
 		"terminal.ansiBrightCyan": "#5ad4e6",
 		"terminal.ansiBrightGreen": "#7bd88f",
@@ -272,7 +272,7 @@
 		"textLink.activeForeground": "#f7f1ff",
 		"textLink.foreground": "#e6db74",
 		"textPreformat.foreground": "#f7f1ff",
-		"textSeparator.foreground": "#69676c",
+		"textSeparator.foreground": "#5c6166",
 		"titleBar.activeBackground": "#191919",
 		"titleBar.activeForeground": "#8b888f",
 		"titleBar.border": "#131313",
@@ -321,7 +321,7 @@
 		//"notificationsWarningIcon.foreground": "#ffcc00",
 		//"quickInput.background": "#191919",
 		//"quickInput.foreground": "#8b888f",
-		//"statusBarItem.prominentForeground": "#69676c",
+		//"statusBarItem.prominentForeground": "#5c6166",
 		//"statusBarItem.remoteBackground": "#e6db74",
 		//"statusBarItem.remoteForeground": "#26292c",
 		//"tab.unfocusedActiveBackground": "#26292c",
@@ -342,14 +342,14 @@
 			"settings": {
 				"name": "Comments and overrides inside comments",
 				"fontStyle": "italic",
-				"foreground": "#69676c"
+				"foreground": "#5c6166"
 			}
 		},
 		{
 			"scope": "comment storage.type",
 			"settings": {
 				"name": "JSDoc storage type",
-				"foreground": "#69676c"
+				"foreground": "#5c6166"
 			}
 		},
 		{
@@ -1048,7 +1048,7 @@
 			"scope": "punctuation.definition.comment",
 			"settings": {
 				"name": "Comment start / end",
-				"foreground": "#69676c"
+				"foreground": "#5c6166"
 			}
 		},
 		{
