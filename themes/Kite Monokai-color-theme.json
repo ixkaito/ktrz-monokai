@@ -67,7 +67,7 @@
 		"editorGutter.addedBackground": "#a6e22e",
 		"editorGutter.background": "#26292c",
 		"editorGutter.deletedBackground": "#f92672",
-		"editorGutter.modifiedBackground": "#fd9353",
+		"editorGutter.modifiedBackground": "#fd971f",
 		"editorHint.border": "#26292c",
 		"editorHint.foreground": "#ae81ff",
 		"editorHoverWidget.background": "#36383b",
@@ -81,7 +81,7 @@
 		"editorMarkerNavigation.background": "#36383b",
 		"editorMarkerNavigationError.background": "#f92672",
 		"editorMarkerNavigationInfo.background": "#66d9ef",
-		"editorMarkerNavigationWarning.background": "#fd9353",
+		"editorMarkerNavigationWarning.background": "#fd971f",
 		"editorOverviewRuler.addedForeground": "#a6e22e",
 		"editorOverviewRuler.border": "#26292c",
 		"editorOverviewRuler.currentContentForeground": "#36383b",
@@ -90,10 +90,10 @@
 		"editorOverviewRuler.findMatchForeground": "#f7f1ff26",
 		"editorOverviewRuler.incomingContentForeground": "#36383b",
 		"editorOverviewRuler.infoForeground": "#66d9ef",
-		"editorOverviewRuler.modifiedForeground": "#fd9353",
+		"editorOverviewRuler.modifiedForeground": "#fd971f",
 		"editorOverviewRuler.rangeHighlightForeground": "#f7f1ff26",
 		"editorOverviewRuler.selectionHighlightForeground": "#f7f1ff26",
-		"editorOverviewRuler.warningForeground": "#fd9353",
+		"editorOverviewRuler.warningForeground": "#fd971f",
 		"editorOverviewRuler.wordHighlightForeground": "#f7f1ff26",
 		"editorOverviewRuler.wordHighlightStrongForeground": "#f7f1ff26",
 		"editorPane.background": "#26292c",
@@ -104,7 +104,7 @@
 		"editorSuggestWidget.highlightForeground": "#f7f1ff",
 		"editorSuggestWidget.selectedBackground": "#5c6166",
 		"editorWarning.border": "#00000000",
-		"editorWarning.foreground": "#fd9353",
+		"editorWarning.foreground": "#fd971f",
 		"editorWhitespace.foreground": "#36383b",
 		"editorWidget.background": "#36383b",
 		"editorWidget.border": "#36383b",
@@ -114,11 +114,11 @@
 		"extensionButton.prominentHoverBackground": "#36383b",
 		"focusBorder": "#5c6166",
 		"foreground": "#f7f1ff",
-		"gitDecoration.conflictingResourceForeground": "#fd9353",
+		"gitDecoration.conflictingResourceForeground": "#fd971f",
 		"gitDecoration.deletedResourceForeground": "#f92672",
 		"gitDecoration.ignoredResourceForeground": "#36383b",
 		"gitDecoration.modifiedResourceForeground": "#a6e22e",
-		"gitDecoration.untrackedResourceForeground": "#fd9353",
+		"gitDecoration.untrackedResourceForeground": "#fd971f",
 		"input.background": "#36383b",
 		"input.border": "#36383b",
 		"input.foreground": "#f7f1ff",
@@ -132,8 +132,8 @@
 		"inputValidation.infoBorder": "#66d9ef",
 		"inputValidation.infoForeground": "#66d9ef",
 		"inputValidation.warningBackground": "#36383b",
-		"inputValidation.warningBorder": "#fd9353",
-		"inputValidation.warningForeground": "#fd9353",
+		"inputValidation.warningBorder": "#fd971f",
+		"inputValidation.warningForeground": "#fd971f",
 		"list.activeSelectionBackground": "#26292c",
 		"list.activeSelectionForeground": "#e6db74",
 		"list.dropBackground": "#1f2124bf",
@@ -147,7 +147,7 @@
 		"list.inactiveSelectionBackground": "#26292c",
 		"list.inactiveSelectionForeground": "#e6db74",
 		"list.invalidItemForeground": "#f92672",
-		"list.warningForeground": "#fd9353",
+		"list.warningForeground": "#fd971f",
 		"listFilterWidget.background": "#26292c",
 		"listFilterWidget.noMatchesOutline": "#f92672",
 		"listFilterWidget.outline": "#26292c",
@@ -246,9 +246,9 @@
 		"tab.unfocusedInactiveForeground": "#8b888f",
 		"tab.unfocusedInactiveModifiedBorder": "#36383b",
 		"terminal.ansiBlack": "#36383b",
-		"terminal.ansiBlue": "#fd9353",
+		"terminal.ansiBlue": "#fd971f",
 		"terminal.ansiBrightBlack": "#5c6166",
-		"terminal.ansiBrightBlue": "#fd9353",
+		"terminal.ansiBrightBlue": "#fd971f",
 		"terminal.ansiBrightCyan": "#66d9ef",
 		"terminal.ansiBrightGreen": "#a6e22e",
 		"terminal.ansiBrightMagenta": "#ae81ff",
@@ -457,7 +457,7 @@
 			"scope": "constant.other.symbol",
 			"settings": {
 				"name": "Constant as symbol (e.g. in ruby)",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -640,7 +640,7 @@
 			"scope": "entity.other.attribute-name.id.css",
 			"settings": {
 				"name": "CSS id",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -791,7 +791,7 @@
 			"scope": "markup.raw",
 			"settings": {
 				"name": "Raw",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			],
 			"settings": {
 				"name": "ID string name (i.e. in html attributes)",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -995,7 +995,7 @@
 			"scope": "meta.property-list.css variable.other",
 			"settings": {
 				"name": "SCSS Variable",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -1071,7 +1071,7 @@
 			],
 			"settings": {
 				"name": "Punctuation section embedded (i.e. ?php blocks in html)",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -1110,8 +1110,8 @@
 			"scope": "region.orangish",
 			"settings": {
 				"name": "region orange color",
-				"foreground": "#fd9353",
-				"background": "#fd935359"
+				"foreground": "#fd971f",
+				"background": "#fd971f59"
 			}
 		},
 		{
@@ -1194,7 +1194,7 @@
 			"settings": {
 				"name": "SASS, SCSS and LESS variables",
 				"fontStyle": "italic",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -1231,7 +1231,7 @@
 			"scope": "source.git-show meta.diff.range.unified",
 			"settings": {
 				"name": "git diff header range",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -1465,7 +1465,7 @@
 			"settings": {
 				"name": "Function arguments",
 				"fontStyle": "italic",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"scope": "variable.other.substitution",
 			"settings": {
 				"name": "Substitution (restructured text)",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -1561,7 +1561,7 @@
 			"scope": "source.jinja2 variable.other.jinja2",
 			"settings": {
 				"name": "jinja2 variable",
-				"foreground": "#fd9353"
+				"foreground": "#fd971f"
 			}
 		},
 		{
