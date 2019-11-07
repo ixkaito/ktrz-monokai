@@ -290,7 +290,7 @@
 		//"editor.focusedStackFrameHighlightBackground": "#7abd7a4d",
 		//"editor.snippetFinalTabstopHighlightBorder": "#525252",
 		//"editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
-		//"editor.stackFrameHighlightBackground": "#fff36383b33",
+		//"editor.stackFrameHighlightBackground": "#ffff0033",
 		//"editorActiveLineNumber.foreground": "#c6c6c6",
 		//"editorGutter.commentRangeForeground": "#c5c5c5",
 		//"editorHoverWidget.statusBarBackground": "#414042",
