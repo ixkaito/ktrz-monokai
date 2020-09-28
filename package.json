@@ -17,7 +17,7 @@
                 "path": "./themes/kite-monokai.json"
             },
             {
-                "label": "Kite Ayu",
+                "label": "Kite",
                 "uiTheme": "vs-dark",
                 "path": "./themes/kite-ayu.json"
             }
