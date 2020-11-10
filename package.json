@@ -1,26 +1,36 @@
 {
-    "name": "kite",
-    "displayName": "Kite",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.39.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Kite Monokai",
-                "uiTheme": "vs-dark",
-                "path": "./themes/kite-monokai.json"
-            },
-            {
-                "label": "Kite",
-                "uiTheme": "vs-dark",
-                "path": "./themes/kite-ayu.json"
-            }
-        ]
-    }
+  "name": "kite-monokai",
+  "displayName": "Kite Monokai",
+  "version": "0.1.0",
+  "publisher": "ixkaito",
+  "author": "Kite",
+  "description": "A minimal dark theme with the Monokai color scheme.",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "monokai",
+    "minimal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kite Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kite-monokai.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixkaito/vscode-kite-monokai.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ixkaito/vscode-kite-monokai/issues"
+  },
+  "homepage": "https://github.com/ixkaito/vscode-kite-monokai#readme"
 }
