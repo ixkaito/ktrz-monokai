@@ -1,7 +1,6 @@
 {
   "type": "dark",
   "colors": {
-    // "focusBorder": "#2095f0",
     "focusBorder": "#00000000",
     "foreground": "#8b9399",
     "widget.shadow": "#00000033",
@@ -177,13 +176,11 @@
     "terminal.ansiBrightBlue": "#ae81ff",
     "terminal.ansiBrightMagenta": "#f92672",
     "terminal.ansiBrightCyan": "#66d9ef",
-    "terminal.ansiBrightWhite": "#f8f8f8"
-
-    ,
+    "terminal.ansiBrightWhite": "#f8f8f8",
     "editorOverviewRuler.rangeHighlightForeground": "#0f0",
     "editorOverviewRuler.selectionHighlightForeground": "#0f0",
     "editorOverviewRuler.wordHighlightForeground": "#0f0",
-    "editorOverviewRuler.wordHighlightStrongForeground": "#0f0",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#0f0"
   },
   "tokenColors": [
     {
