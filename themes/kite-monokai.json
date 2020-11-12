@@ -177,10 +177,10 @@
     "terminal.ansiBrightMagenta": "#f92672",
     "terminal.ansiBrightCyan": "#66d9ef",
     "terminal.ansiBrightWhite": "#f8f8f8",
-    "editorOverviewRuler.rangeHighlightForeground": "#0f0",
-    "editorOverviewRuler.selectionHighlightForeground": "#0f0",
-    "editorOverviewRuler.wordHighlightForeground": "#0f0",
-    "editorOverviewRuler.wordHighlightStrongForeground": "#0f0"
+    // "editorOverviewRuler.rangeHighlightForeground": "#0f0",
+    "editorOverviewRuler.selectionHighlightForeground": "#2095f0",
+    // "editorOverviewRuler.wordHighlightForeground": "#0f0",
+    // "editorOverviewRuler.wordHighlightStrongForeground": "#0f0"
   },
   "tokenColors": [
     {
