@@ -137,7 +137,7 @@
     "statusBar.debuggingForeground": "#313437",
     "statusBar.noFolderBackground": "#232834",
     "statusBarItem.activeBackground": "#00000050",
-    "statusBarItem.hoverBackground": "#00000030",
+    "statusBarItem.hoverBackground": "#00000033",
     "statusBarItem.prominentBackground": "#191e2a",
     "statusBarItem.prominentHoverBackground": "#00000030",
     "titleBar.activeBackground": "#313437",
