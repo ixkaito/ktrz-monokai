@@ -6,7 +6,7 @@
   "author": "Kite",
   "description": "A minimal dark theme with the Monokai color scheme.",
   "engines": {
-    "vscode": "^1.50.0"
+    "vscode": "^1.51.0"
   },
   "categories": [
     "Themes"
@@ -20,15 +20,15 @@
       {
         "label": "Kite Monokai",
         "uiTheme": "vs-dark",
-        "path": "./themes/kite-monokai.json"
+        "path": "./themes/kite-monokai-color-theme.json"
       }
     ]
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ixkaito/vscode-kite-monokai.git"
   },
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ixkaito/vscode-kite-monokai/issues"
   },
