@@ -116,7 +116,7 @@
     "debugExceptionWidget.border": "#00000000",
     "debugExceptionWidget.background": "#313437",
     "editorMarkerNavigation.background": "#202325",
-    "peekView.border": "#191e2a",
+    "peekView.border": "#0f0",
     "peekViewEditor.background": "#232834",
     "peekViewEditor.matchHighlightBackground": "#ffcc6633",
     "peekViewResult.background": "#232834",
