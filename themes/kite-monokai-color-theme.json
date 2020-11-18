@@ -400,7 +400,7 @@
     // "textCodeBlock.background": "#0a0a0a66",
     "textLink.activeForeground": "#2095f0",
     "textLink.foreground": "#2095f0",
-    // "textPreformat.foreground": "#d7ba7d",
+    "textPreformat.foreground": "#e6db74",
     // "textSeparator.foreground": "#ffffff2e",
     // "titleBar.activeBackground": "#3c3c3c",
     // "titleBar.activeForeground": "#cccccc",
