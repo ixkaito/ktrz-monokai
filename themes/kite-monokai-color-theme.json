@@ -402,10 +402,10 @@
     "textLink.foreground": "#2095f0",
     "textPreformat.foreground": "#e6db74",
     // "textSeparator.foreground": "#ffffff2e",
-    // "titleBar.activeBackground": "#3c3c3c",
-    // "titleBar.activeForeground": "#cccccc",
-    // "titleBar.inactiveBackground": "#3c3c3c99",
-    // "titleBar.inactiveForeground": "#cccccc99",
+    "titleBar.activeBackground": "#313437",
+    "titleBar.activeForeground": "#f8f8f8",
+    "titleBar.inactiveBackground": "#313437",
+    "titleBar.inactiveForeground": "#7a8288",
     // "tree.indentGuidesStroke": "#585858",
     // "widget.shadow": "#000000"
 	}
