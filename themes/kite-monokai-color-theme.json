@@ -290,7 +290,7 @@
     // "quickInput.foreground": "#cccccc",
     // "quickInputTitle.background": "#ffffff1b",
     // "scm.providerBorder": "#454545",
-    // "scrollbar.shadow": "#000000",
+    "scrollbar.shadow": "#00000099",
     // "scrollbarSlider.activeBackground": "#bfbfbf66",
     // "scrollbarSlider.background": "#79797966",
     // "scrollbarSlider.hoverBackground": "#646464b3",
