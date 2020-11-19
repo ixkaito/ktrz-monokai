@@ -408,6 +408,6 @@
     "titleBar.inactiveBackground": "#313437",
     "titleBar.inactiveForeground": "#7a8288",
     // "tree.indentGuidesStroke": "#585858",
-    // "widget.shadow": "#000000"
+    "widget.shadow": "#00000033"
 	}
 }
