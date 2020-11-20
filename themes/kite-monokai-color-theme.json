@@ -156,7 +156,7 @@
     "editorWidget.background": "#313437",
     "editorWidget.border": "#00000000",
     // "editorWidget.foreground": "#cccccc",
-    // "errorForeground": "#f48771",
+    "errorForeground": "#f92672",
     // "extensionBadge.remoteBackground": "#007acc",
     // "extensionBadge.remoteForeground": "#ffffff",
     "extensionButton.prominentBackground": "#2095f0",
