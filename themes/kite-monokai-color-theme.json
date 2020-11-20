@@ -151,7 +151,7 @@
     "editorSuggestWidget.highlightForeground": "#f8f8f8",
     "editorSuggestWidget.selectedBackground": "#ffffff1a",
     // "editorUnnecessaryCode.opacity": "#000000aa",
-    // "editorWarning.foreground": "#cca700",
+    "editorWarning.foreground": "#fd971f",
     "editorWhitespace.foreground": "#3b3e41",
     // "editorWidget.background": "#252526",
     // "editorWidget.border": "#454545",
