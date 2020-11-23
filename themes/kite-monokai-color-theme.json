@@ -97,7 +97,7 @@
     // "editorActiveLineNumber.foreground": "#c6c6c6",
     // "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#7a8288",
-    // "editorCodeLens.foreground": "#999999",
+    "editorCodeLens.foreground": "#7a8288",
     "editorCursor.foreground": "#f8f8f8",
     "editorError.foreground": "#f92672",
     "editorGroup.border": "#313437",
