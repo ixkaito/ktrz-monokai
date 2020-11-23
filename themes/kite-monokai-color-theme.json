@@ -96,7 +96,7 @@
     // "editor.wordHighlightStrongBackground": "#004972b8",
     // "editorActiveLineNumber.foreground": "#c6c6c6",
     // "editorBracketMatch.background": "#0064001a",
-    // "editorBracketMatch.border": "#888888",
+    "editorBracketMatch.border": "#7a8288",
     // "editorCodeLens.foreground": "#999999",
     "editorCursor.foreground": "#f8f8f8",
     "editorError.foreground": "#f92672",
