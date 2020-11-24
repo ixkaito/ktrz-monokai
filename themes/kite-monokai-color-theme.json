@@ -83,7 +83,7 @@
     "editor.foreground": "#f8f8f8",
     // "editor.hoverHighlightBackground": "#264f7840",
     // "editor.inactiveSelectionBackground": "#264f7880",
-    // "editor.lineHighlightBorder": "#282828",
+    "editor.lineHighlightBorder": "#00000000",
     // "editor.onTypeRenameBackground": "#ff00004d",
     // "editor.rangeHighlightBackground": "#ffffff0b",
     // "editor.selectionBackground": "#264f78",
