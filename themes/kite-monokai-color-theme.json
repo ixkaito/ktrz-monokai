@@ -179,7 +179,7 @@
     // "gitlens.lineHighlightBackgroundColor": "#00bcf233",
     // "gitlens.lineHighlightOverviewRulerColor": "#00bcf299",
     // "gitlens.trailingLineBackgroundColor": "#00000000",
-    // "gitlens.trailingLineForegroundColor": "#99999959",
+    "gitlens.trailingLineForegroundColor": "#45494d",
     // "icon.foreground": "#c5c5c5",
     // "imagePreview.border": "#80808059",
     "input.background": "#ffffff0d",
