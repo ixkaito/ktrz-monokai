@@ -301,6 +301,7 @@
     "scrollbarSlider.background": "#ffffff1a",
     "scrollbarSlider.hoverBackground": "#ffffff26",
     // "searchEditor.findMatchBackground": "#ea5c0038",
+		"selection.background": "#ffffff1a",
     "settings.checkboxBackground": "#313437",
     // "settings.checkboxBorder": "#3c3c3c",
     // "settings.checkboxForeground": "#f0f0f0",
