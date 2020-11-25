@@ -81,7 +81,7 @@
     // "editor.focusedStackFrameHighlightBackground": "#7abd7a4d",
     // "editor.foldBackground": "#264f784d",
     "editor.foreground": "#f8f8f8",
-    // "editor.hoverHighlightBackground": "#264f7840",
+    "editor.hoverHighlightBackground": "#ffffff1a",
     // "editor.inactiveSelectionBackground": "#264f7880",
     "editor.lineHighlightBackground": "#202325",
     "editor.lineHighlightBorder": "#00000000",
