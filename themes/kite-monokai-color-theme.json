@@ -87,7 +87,7 @@
     "editor.lineHighlightBorder": "#00000000",
     // "editor.onTypeRenameBackground": "#ff00004d",
     // "editor.rangeHighlightBackground": "#ffffff0b",
-    // "editor.selectionBackground": "#264f78",
+    "editor.selectionBackground": "#ffffff1a",
     // "editor.selectionHighlightBackground": "#1d3b5a99",
     // "editor.snippetFinalTabstopHighlightBorder": "#525252",
     // "editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
