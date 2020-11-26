@@ -93,7 +93,7 @@
     // "editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
     // "editor.stackFrameHighlightBackground": "#ffff0033",
     // "editor.symbolHighlightBackground": "#ea5c0055",
-    // "editor.wordHighlightBackground": "#575757b8",
+    "editor.wordHighlightBackground": "#ffffff1a",
     // "editor.wordHighlightStrongBackground": "#004972b8",
     // "editorActiveLineNumber.foreground": "#c6c6c6",
     "editorBracketMatch.background": "#00000000",
