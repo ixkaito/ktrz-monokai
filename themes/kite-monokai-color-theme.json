@@ -94,7 +94,7 @@
     // "editor.stackFrameHighlightBackground": "#ffff0033",
     // "editor.symbolHighlightBackground": "#ea5c0055",
     "editor.wordHighlightBackground": "#ffffff1a",
-    // "editor.wordHighlightStrongBackground": "#004972b8",
+    "editor.wordHighlightStrongBackground": "#2095f033",
     // "editorActiveLineNumber.foreground": "#c6c6c6",
     "editorBracketMatch.background": "#00000000",
     "editorBracketMatch.border": "#7a8288",
