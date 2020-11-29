@@ -1,6 +1,6 @@
 {
   "name": "Kite Monokai",
-	// "tokenColors": "./Monokai.tmTheme",
+	"tokenColors": "./Monokai.tmTheme",
 	"colors": {
 		// "activityBar.activeBorder": "#ffffff",
     "activityBar.background": "#313437",
