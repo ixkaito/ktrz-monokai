@@ -137,7 +137,7 @@
     // "editorOverviewRuler.currentContentForeground": "#40c8ae80",
     // "editorOverviewRuler.deletedForeground": "#94151b99",
     "editorOverviewRuler.errorForeground": "#f9267299",
-    // "editorOverviewRuler.findMatchForeground": "#d186167e",
+    "editorOverviewRuler.findMatchForeground": "#2095f099",
     // "editorOverviewRuler.incomingContentForeground": "#40a6ff80",
     // "editorOverviewRuler.infoForeground": "#75beff",
     // "editorOverviewRuler.modifiedForeground": "#0c7d9d99",
