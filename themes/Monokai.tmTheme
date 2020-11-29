@@ -6,7 +6,7 @@
 	<string>Monokai</string>
 	<key>settings</key>
 	<array>
-		<dict>
+		<!-- <dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -22,8 +22,8 @@
 				<key>selection</key>
 				<string>#49483E</string>
 			</dict>
-		</dict>
-		<dict>
+		</dict> -->
+		<!-- <dict>
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
@@ -33,7 +33,7 @@
 				<key>foreground</key>
 				<string>#75715E</string>
 			</dict>
-		</dict>
+		</dict> -->
 		<dict>
 			<key>name</key>
 			<string>String</string>
