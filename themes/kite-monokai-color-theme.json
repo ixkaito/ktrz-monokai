@@ -491,7 +491,7 @@
       "name": "Class name",
       "scope": "entity.name.class",
       "settings": {
-        "fontStyle": "underline",
+        // "fontStyle": "underline",
         "foreground": "#A6E22E"
       }
     },
@@ -634,6 +634,15 @@
       ],
       "settings": {
         "fontStyle": "bold italic"
+      }
+    },
+    {
+      "scope": [
+        "meta.separator"
+      ],
+      "settings": {
+        "foreground": "#5C6166",
+        "fontStyle": "bold"
       }
     },
     {
