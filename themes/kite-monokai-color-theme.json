@@ -521,6 +521,17 @@
       }
     },
     {
+      "scope": [
+        "variable.function",
+        "variable.annotation",
+        "meta.function-call.generic",
+        "support.function.go"
+      ],
+      "settings": {
+        "foreground": "#A6E22E"
+      }
+    },
+    {
       "name": "Tag name",
       "scope": "entity.name.tag",
       "settings": {
