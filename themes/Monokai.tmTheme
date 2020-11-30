@@ -23,7 +23,7 @@
 				<string>#49483E</string>
 			</dict>
 		</dict> -->
-		<!-- <dict>
+		<dict>
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
@@ -31,9 +31,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715E</string>
+				<string>#5c6166</string>
 			</dict>
-		</dict> -->
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>String</string>
