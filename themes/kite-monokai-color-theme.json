@@ -572,6 +572,15 @@
     },
     {
       "scope": [
+        "meta.diff",
+        "meta.diff.header"
+      ],
+      "settings": {
+        "foreground": "#66D9EF"
+      }
+    },
+    {
+      "scope": [
         "markup.heading",
         "markup.heading entity.name"
       ],
@@ -655,6 +664,40 @@
       ],
       "settings": {
         "foreground": "#D2304B"
+      }
+    },
+    {
+      "scope": [
+        "markup.strike"
+      ],
+      "settings": {
+        "foreground": "#FFE6B3"
+      }
+    },
+    {
+      "scope": [
+        "markup.table"
+      ],
+      "settings": {
+        "foreground": "#66D9EF",
+        // "background": "#CBCCC60F"
+      }
+    },
+    {
+      "scope": [
+        "text.html.markdown markup.inline.raw"
+      ],
+      "settings": {
+        "foreground": "#E6DB74"
+      }
+    },
+    {
+      "scope": [
+        "text.html.markdown meta.dummy.line-break"
+      ],
+      "settings": {
+        "foreground": "#5C6166",
+        // "background": "#5C6773"
       }
     },
     {
