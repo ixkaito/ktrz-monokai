@@ -6,23 +6,23 @@
 	<string>Monokai</string>
 	<key>settings</key>
 	<array>
-		<!-- <dict>
+		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#272822</string>
+				<string>#26292C</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#F8F8F2</string>
+				<string>#F8F8F8</string>
 				<key>invisibles</key>
-				<string>#3B3A32</string>
+				<string>#3B3E41</string>
 				<key>lineHighlight</key>
-				<string>#3E3D32</string>
+				<string>#202325</string>
 				<key>selection</key>
-				<string>#49483E</string>
+				<string>#FFFFFF1A</string>
 			</dict>
-		</dict> -->
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -31,7 +31,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5c6166</string>
+				<string>#5C6166</string>
 			</dict>
 		</dict>
 		<dict>
