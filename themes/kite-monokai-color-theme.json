@@ -475,7 +475,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "fontStyle": "",
+        // "fontStyle": "",
         "foreground": "#F92672"
       }
     },
@@ -499,7 +499,8 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "fontStyle": "italic underline",
+        "fontStyle": "italic",
+        // "fontStyle": "italic underline",
         "foreground": "#A6E22E"
       }
     },
@@ -507,7 +508,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "fontStyle": "",
+        // "fontStyle": "",
         "foreground": "#A6E22E"
       }
     },
@@ -570,11 +571,98 @@
       }
     },
     {
+      "scope": [
+        "markup.heading",
+        "markup.heading entity.name"
+      ],
+      "settings": {
+        "foreground": "#A6E22E",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "markup.underline.link",
+        "string.other.link"
+      ],
+      "settings": {
+        "foreground": "#66D9EF"
+      }
+    },
+    {
+      "scope": [
+        "markup.italic"
+      ],
+      "settings": {
+        "foreground": "#AE81FF",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "markup.bold"
+      ],
+      "settings": {
+        "foreground": "#F92672",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "markup.italic markup.bold",
+        "markup.bold markup.italic"
+      ],
+      "settings": {
+        "fontStyle": "bold italic"
+      }
+    },
+    {
+      "scope": [
+        "markup.quote"
+      ],
+      "settings": {
+        "foreground": "#E6DB74",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "markup.list punctuation.definition.list.begin"
+      ],
+      "settings": {
+        "foreground": "#E6DB74"
+      }
+    },
+    {
+      "scope": [
+        "markup.inserted"
+      ],
+      "settings": {
+        "foreground": "#A6E22E"
+      }
+    },
+    {
+      "scope": [
+        "markup.changed"
+      ],
+      "settings": {
+        "foreground": "#E6DB74"
+      }
+    },
+    {
+      "scope": [
+        "markup.deleted"
+      ],
+      "settings": {
+        "foreground": "#D2304B"
+      }
+    },
+    {
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
         // "background": "#F92672",
-        "fontStyle": "",
+        // "fontStyle": "",
         "foreground": "#F8F8F8"
       }
     },
