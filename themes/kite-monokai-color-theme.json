@@ -75,7 +75,7 @@
     "dropdown.border": "#00000000",
     "dropdown.foreground": "#f8f8f8",
     "editor.background": "#26292c",
-    "editor.findMatchBackground": "#ffe79266",
+    "editor.findMatchBackground": "#2095f066",
     "editor.findMatchHighlightBackground": "#00000000",
     "editor.findMatchHighlightBorder": "#7a8288",
     // "editor.findRangeHighlightBackground": "#3a3d4166",
