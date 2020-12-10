@@ -212,6 +212,7 @@
     "list.hoverBackground": "#00000000",
     "list.hoverForeground": "#f8f8f8",
     "list.inactiveSelectionBackground": "#26292c",
+    "list.inactiveSelectionForeground": "#f8f8f8",
     // "list.invalidItemForeground": "#b89500",
     "list.warningForeground": "#fd971f",
     // "listFilterWidget.background": "#653723",
