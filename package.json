@@ -1,6 +1,6 @@
 {
-  "name": "kite-monokai",
-  "displayName": "Kite Monokai",
+  "name": "ktrz-monokai",
+  "displayName": "KTRZ Monokai",
   "version": "0.1.0",
   "publisher": "ixkaito",
   "author": "Kite",
@@ -18,19 +18,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kite Monokai",
+        "label": "KTRZ Monokai",
         "uiTheme": "vs-dark",
-        "path": "./themes/kite-monokai-color-theme.json"
+        "path": "./themes/ktrz-monokai-color-theme.json"
       }
     ]
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ixkaito/vscode-kite-monokai.git"
+    "url": "git+https://github.com/ixkaito/vscode-ktrz-monokai.git"
   },
   "bugs": {
-    "url": "https://github.com/ixkaito/vscode-kite-monokai/issues"
+    "url": "https://github.com/ixkaito/vscode-ktrz-monokai/issues"
   },
-  "homepage": "https://github.com/ixkaito/vscode-kite-monokai#readme"
+  "homepage": "https://github.com/ixkaito/vscode-ktrz-monokai#readme"
 }
