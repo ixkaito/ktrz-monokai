@@ -18,6 +18,7 @@
   "contributes": {
     "themes": [
       {
+        "id": "ktrz-monokai",
         "label": "KTRZ Monokai",
         "uiTheme": "vs-dark",
         "path": "./themes/ktrz-monokai-color-theme.json"
