@@ -1,37 +1,43 @@
 {
-  "name": "ktrz-monokai",
-  "displayName": "KTRZ Monokai",
-  "version": "0.1.0",
-  "publisher": "ixkaito",
-  "author": "Kite",
-  "description": "A minimal dark theme with the Monokai color scheme.",
-  "engines": {
-    "vscode": "^1.52.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "monokai",
-    "minimal"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "id": "ktrz-monokai",
-        "label": "KTRZ Monokai",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ktrz-monokai-color-theme.json"
-      }
-    ]
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ixkaito/vscode-ktrz-monokai.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ixkaito/vscode-ktrz-monokai/issues"
-  },
-  "homepage": "https://github.com/ixkaito/vscode-ktrz-monokai#readme"
+	"name": "ktrz-monokai",
+	"displayName": "KTRZ Monokai",
+	"version": "0.1.0",
+	"publisher": "ixkaito",
+	"author": "Kite",
+	"description": "A minimal dark theme with the Monokai color scheme.",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.52.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"monokai",
+		"minimal"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"id": "ktrz-monokai",
+				"label": "KTRZ Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ktrz-monokai-color-theme.json"
+			}
+		]
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ixkaito/vscode-ktrz-monokai.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ixkaito/vscode-ktrz-monokai/issues"
+	},
+	"homepage": "https://github.com/ixkaito/vscode-ktrz-monokai#readme",
+	"__metadata": {
+		"id": "79896550-ad0f-4c95-be3b-acda8d489279",
+		"publisherDisplayName": "Kite",
+		"publisherId": "ff6e7f41-041c-4fd1-8eb3-20f4eafaea91"
+	}
 }
