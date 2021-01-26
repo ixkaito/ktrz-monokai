@@ -1,5 +1,6 @@
 {
-  // "name": "ktrz-monokai",
+  "name": "ktrz-monokai",
+	"type": "dark",
 	// "tokenColors": "./Monokai.tmTheme",
 	"colors": {
 		// "activityBar.activeBorder": "#ffffff",
