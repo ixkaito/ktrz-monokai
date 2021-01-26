@@ -193,7 +193,7 @@
     "terminal.background": "#1e2123",
     "terminal.foreground": "#f8f8f8",
     "textBlockQuote.background": "#313437",
-    "textBlockQuote.border": "#5c6166"  ,
+    "textBlockQuote.border": "#5c6166",
     "textLink.activeForeground": "#2095f0",
     "textLink.foreground": "#2095f0",
     "textPreformat.foreground": "#e6db74",
