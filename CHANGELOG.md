@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.2] - 2021-01-26
+
+- Added screenshots
+
 ## [0.1.1] - 2021-01-26
 
 - Added the theme icon
