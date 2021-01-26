@@ -1,4 +1,4 @@
-# KTRZ Monokai 
+# [KTRZ Monokai](https://marketplace.visualstudio.com/items?itemName=ixkaito.ktrz-monokai&ssr=false#overview)
 
 A minimal dark Visual Studio Code theme with the Monokai color scheme. Match with [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
