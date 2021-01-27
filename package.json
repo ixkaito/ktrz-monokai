@@ -1,7 +1,7 @@
 {
 	"name": "ktrz-monokai",
 	"displayName": "KTRZ Monokai",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"publisher": "ixkaito",
 	"author": "Kite",
 	"description": "A minimal dark theme with the Monokai color scheme.",
@@ -30,10 +30,10 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ixkaito/vscode-ktrz-monokai.git"
+		"url": "https://github.com/ixkaito/ktrz-monokai.git"
 	},
 	"bugs": {
-		"url": "https://github.com/ixkaito/vscode-ktrz-monokai/issues"
+		"url": "https://github.com/ixkaito/ktrz-monokai/issues"
 	},
 	"homepage": "https://ixkaito.github.io/ktrz-monokai/",
 	"__metadata": {
