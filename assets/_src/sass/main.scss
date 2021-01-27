@@ -15,6 +15,7 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	line-height: 1.5;
 	margin: 80px 8px 64px;
+	text-align: center;
 }
 
 a {
@@ -44,10 +45,15 @@ p {
 img {
 	height: auto;
 	max-width: 100%;
+	vertical-align: top;
 }
 
 figure {
 	margin: 0;
+}
+
+svg {
+	vertical-align: top;
 }
 
 .button {
@@ -59,6 +65,11 @@ figure {
 	font-weight: 600;
 	min-width: 200px;
 	padding: 0.5em 1.5em;
+	transition: background 0.25s;
+
+	&:hover {
+		background: $blue-dark;
+	}
 }
 
 .nowrap {
@@ -66,10 +77,14 @@ figure {
 }
 
 .header {
-	text-align: center;
-
 	.button {
 		margin-top: 56px;
+	}
+}
+
+.logo {
+	svg {
+		@include vs(height, 320px, 96px, 960px, 128px);
 	}
 }
 
@@ -79,8 +94,6 @@ figure {
 }
 
 .section-screenshots {
-	text-align: center;
-
 	.button {
 		margin-top: 128px;
 	}
@@ -103,4 +116,18 @@ figure {
 		font-size: 14px;
 		font-weight: 500;
 	}
+}
+
+.social {
+	display: flex;
+	justify-content: center;
+	margin-top: 128px;
+
+	a {
+		margin: 0 8px;
+	}
+}
+
+.copyright {
+	margin-top: 32px;
 }
