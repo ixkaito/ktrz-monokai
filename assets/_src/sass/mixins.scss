@@ -1,0 +1,40 @@
+/**
+ * ViewportScale v0.2.1
+ * Copyright (c) 2018 Kite
+ * MIT License
+ */
+@function strip-unit($value) {
+	@return $value / ($value * 0 + 1);
+}
+
+@mixin vs($property, $min-vp, $min-length, $max-vp, $max-length, $vp-unit: 'vw') {
+	$u01: unit($min-vp);
+	$u02: unit($min-length);
+	$u03: unit($max-vp);
+	$u04: unit($max-length);
+
+	$a: strip-unit($min-vp);
+	$b: strip-unit($min-length);
+	$c: strip-unit($max-vp);
+	$d: strip-unit($max-length);
+
+	@if $u01 == $u03 and $u02 == $u04 {
+
+		$x: (($d - $b) / ($c - $a) * 100) + #{$vp-unit};
+		$y: (($c * $b - $a * $d) / ($c - $a)) + #{$u02};
+
+		#{$property}: $min-length;
+
+		@media screen and (min-width: $min-vp) {
+			@if $y == 0 {
+				#{$property}: $x;
+			} @else {
+				#{$property}: calc(#{$x} + #{$y});
+			}
+		}
+
+		@media screen and (min-width: $max-vp) {
+			#{$property}: $max-length;
+		}
+	}
+}
