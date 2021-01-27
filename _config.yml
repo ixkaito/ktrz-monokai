@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Frasco: Jekyll Quick Starter"
-email: your-email@domain.com
+title: "KTRZ Monokai"
 description: >- # this means to ignore newlines until "baseurl:"
-  Quick starter for Jekyll including full setup for Sass, PostCSS, Autoprefixer, stylelint, Webpack, ESLint, imagemin, Browsersync, etc.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  A minimal dark Visual Studio Code theme with the Monokai color scheme.
+baseurl: "/ktrz-monokai" # the subpath of your site, e.g. /blog
+url: "https://ixkaito.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ixkaito
 github_username:  ixkaito
 
