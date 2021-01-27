@@ -34,6 +34,7 @@ h1 {
 h2 {
 	@include vs(font-size, 320px, 28px, 960px, 48px);
 	font-weight: 800;
+	margin: 128px 0 64px;
 }
 
 p {
@@ -82,13 +83,20 @@ figure {
 }
 
 .screenshots {
+	@include vs(row-gap, 320px, 32px, 960px, 64px);
 	display: grid;
+	grid-template-columns: repeat(2, 1fr);
 	list-style: none;
 	margin: 0;
 	padding: 0;
 
 	> li {
 		max-width: 568px;
-		width: 50%;
+	}
+
+	figcaption {
+		color: $gray;
+		font-size: 14px;
+		font-weight: 500;
 	}
 }
