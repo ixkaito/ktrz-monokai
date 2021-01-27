@@ -30,7 +30,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ixkaito/vscode-ktrz-monokai.git"
+		"url": "https://github.com/ixkaito/vscode-ktrz-monokai.git"
 	},
 	"bugs": {
 		"url": "https://github.com/ixkaito/vscode-ktrz-monokai/issues"
