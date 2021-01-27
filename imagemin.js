@@ -3,6 +3,7 @@ const imageminGifsicle = require('imagemin-gifsicle');
 const imageminJpegtran = require('imagemin-jpegtran');
 const imageminOptipng = require('imagemin-optipng');
 const imageminSvgo = require('imagemin-svgo');
+const imageminWebP = require('imagemin-webp');
 
 const input = process.argv[2];
 const dest = process.argv[3];
@@ -17,9 +18,12 @@ if (! input) return;
       imageminOptipng(),
       imageminSvgo({
         plugins: [
-          { removeViewBox: false },
-          { cleanupIDs: false },
-        ]
+          {removeViewBox: false},
+          {cleanupIDs: false},
+        ],
+      }),
+      imageminWebP({
+        lossless: true,
       }),
     ],
   });

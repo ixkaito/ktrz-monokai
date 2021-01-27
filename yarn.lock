@@ -1530,7 +1530,7 @@
     "execa" "^1.0.0"
     "find-versions" "^3.0.0"
 
-"bin-wrapper@^4.0.0":
+"bin-wrapper@^4.0.0", "bin-wrapper@^4.0.1":
   "integrity" "sha512-hfRmo7hWIXPkbpi0ZltboCMVrU+0ClXR/JgbCKKjlDjQf6igXa7OwdqNcFWQZPZTgiY7ZpzE3+LjjkLiTN2T7Q=="
   "resolved" "https://registry.npmjs.org/bin-wrapper/-/bin-wrapper-4.1.0.tgz"
   "version" "4.1.0"
@@ -2544,6 +2544,15 @@
   dependencies:
     "array-find-index" "^1.0.1"
 
+"cwebp-bin@^5.0.0":
+  "integrity" "sha512-BsPKStaNr98zfxwejWWLIGELbPERULJoD2v5ijvpeutSAGsegX7gmABgnkRK7MUucCPROXXfaPqkLAwI509JzA=="
+  "resolved" "https://registry.npmjs.org/cwebp-bin/-/cwebp-bin-5.1.0.tgz"
+  "version" "5.1.0"
+  dependencies:
+    "bin-build" "^3.0.0"
+    "bin-wrapper" "^4.0.1"
+    "logalot" "^2.1.0"
+
 "cyclist@^1.0.1":
   "integrity" "sha1-WW6WmP0MgOEgOMK4LW6xs1tiJNk="
   "resolved" "https://registry.npmjs.org/cyclist/-/cyclist-1.0.1.tgz"
@@ -3446,6 +3455,11 @@
   "resolved" "https://registry.npmjs.org/file-type/-/file-type-10.11.0.tgz"
   "version" "10.11.0"
 
+"file-type@^10.5.0":
+  "integrity" "sha512-uzk64HRpUZyTGZtVuvrjP0FYxzQrBf4rojot6J65YMEbwBLB0CWm0CLojVpwpmFmxcE/lkvYICgfcGozbBq6rw=="
+  "resolved" "https://registry.npmjs.org/file-type/-/file-type-10.11.0.tgz"
+  "version" "10.11.0"
+
 "file-type@^12.0.0":
   "integrity" "sha512-UssQP5ZgIOKelfsaB5CuGAL+Y+q7EmONuiwF3N5HAH0t27rvrttgi6Ra9k/+DVaY9UF6+ybxu5pOXLUdA8N7Vg=="
   "resolved" "https://registry.npmjs.org/file-type/-/file-type-12.4.2.tgz"
@@ -4219,6 +4233,15 @@
     "is-svg" "^4.2.1"
     "svgo" "^1.3.2"
 
+"imagemin-webp@^6.0.0":
+  "integrity" "sha512-DmVCkI8H1csyqAExsk93LzC88gj2uKXaLLW5Ly+WYsvNx7xv5cJAlozXWIx9Z0kEQr9w98gphi5aP2b++iDH8g=="
+  "resolved" "https://registry.npmjs.org/imagemin-webp/-/imagemin-webp-6.0.0.tgz"
+  "version" "6.0.0"
+  dependencies:
+    "cwebp-bin" "^5.0.0"
+    "exec-buffer" "^3.0.0"
+    "is-cwebp-readable" "^3.0.0"
+
 "imagemin@^7.0.1":
   "integrity" "sha512-33AmZ+xjZhg2JMCe+vDf6a9mzWukE7l+wAtesjE7KyteqqKjzxv7aVQeWnul1Ve26mWvEQqyPwl0OctNBfSR9w=="
   "resolved" "https://registry.npmjs.org/imagemin/-/imagemin-7.0.1.tgz"
@@ -4449,6 +4472,13 @@
   "integrity" "sha512-pyVD9AaGLxtg6srb2Ng6ynWJqkHU9bEM087AKck0w8QwDarTfNcpIYoU8x8Hv2Icm8u6kFJM18Dag8lyqGkviw=="
   "resolved" "https://registry.npmjs.org/is-callable/-/is-callable-1.2.0.tgz"
   "version" "1.2.0"
+
+"is-cwebp-readable@^3.0.0":
+  "integrity" "sha512-bpELc7/Q1/U5MWHn4NdHI44R3jxk0h9ew9ljzabiRl70/UIjL/ZAqRMb52F5+eke/VC8yTiv4Ewryo1fPWidvA=="
+  "resolved" "https://registry.npmjs.org/is-cwebp-readable/-/is-cwebp-readable-3.0.0.tgz"
+  "version" "3.0.0"
+  dependencies:
+    "file-type" "^10.5.0"
 
 "is-data-descriptor@^0.1.4":
   "integrity" "sha1-C17mSDiOLIYCgueT8YVv7D8wG1Y="
@@ -5010,7 +5040,7 @@
   dependencies:
     "chalk" "^4.0.0"
 
-"logalot@^2.0.0":
+"logalot@^2.0.0", "logalot@^2.1.0":
   "integrity" "sha1-X46MkNME7fElMJUaVVSruMXj9VI="
   "resolved" "https://registry.npmjs.org/logalot/-/logalot-2.1.0.tgz"
   "version" "2.1.0"
