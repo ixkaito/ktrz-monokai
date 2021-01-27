@@ -57,6 +57,7 @@ figure {
 	display: inline-block;
 	font-size: 20px;
 	font-weight: 600;
+	min-width: 200px;
 	padding: 0.5em 1.5em;
 }
 
@@ -69,7 +70,6 @@ figure {
 
 	.button {
 		margin-top: 56px;
-		width: 200px;
 	}
 }
 
@@ -80,6 +80,10 @@ figure {
 
 .section-screenshots {
 	text-align: center;
+
+	.button {
+		margin-top: 128px;
+	}
 }
 
 .screenshots {
