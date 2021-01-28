@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.6] - 2021-01-28
+
+- Fix the menu background bug on Windows
+
 ## [0.1.2] - 2021-01-26
 
 - Added screenshots
