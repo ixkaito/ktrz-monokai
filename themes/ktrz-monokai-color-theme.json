@@ -98,6 +98,7 @@
     "gitDecoration.untrackedResourceForeground": "#a6e22e",
     "gitlens.trailingLineForegroundColor": "#45494d",
     "icon.foreground": "#8b9399",
+    "imagePreview.border": "#ffffff26",
     "input.background": "#ffffff0d",
     "input.foreground": "#f8f8f8",
     "inputOption.activeBackground": "#00000000",
@@ -165,8 +166,8 @@
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#5c6166",
     "statusBar.background": "#313437",
-    "statusBar.debuggingBackground": "#fd971f",
-    "statusBar.debuggingForeground": "#1e2123",
+    "statusBar.debuggingBackground": "#fd971f66",
+    "statusBar.debuggingForeground": "#f8f8f8",
     "statusBar.foreground": "#7a8288",
     "statusBar.noFolderBackground": "#313437",
     "statusBarItem.activeBackground": "#0000004d",
@@ -220,6 +221,7 @@
     "titleBar.activeForeground": "#f8f8f8",
     "titleBar.inactiveBackground": "#313437",
     "titleBar.inactiveForeground": "#7a8288",
+    "tree.indentGuidesStroke": "#5c6166",
     "widget.shadow": "#00000033"
   },
   "tokenColors": [
